@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-excel",
-      "url": "https://github.com/xavdonhauser/Excel/blob/main/excel.js",
+      "url": "https://raw.githubusercontent.com/xavdonhauser/Excel/main/excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-excel-aps",
-      "url": "https://github.com/xavdonhauser/Excel/blob/main/aps_excel.js",
+      "url": "https://raw.githubusercontent.com/xavdonhauser/Excel/main/aps_excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
